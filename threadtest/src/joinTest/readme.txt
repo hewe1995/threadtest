@@ -1,0 +1,1 @@
+使用uitl中的addthrea测试join,具体测试详情看maintest类中的jointest方法
